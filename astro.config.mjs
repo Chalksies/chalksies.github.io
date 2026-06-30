@@ -33,7 +33,7 @@ export default defineConfig({
 				aliasDivider: '|',
 				hrefTemplate: (/** @type {string} */ permalink) => {
 					const slug = permalink.toLowerCase().replace(/\s+/g, '-');
-					return '/schism/$slug';
+					return `/schism/${slug}`;
 				}
             }],
 			remarkMark
