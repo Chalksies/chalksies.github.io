@@ -17,8 +17,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Install, build, and upload your site
-        uses: withastro/action@v3
-        # with:
+        uses: withastro/action@v3,
+        with:
+          node-version: '24'
           # path: . # uncomment if your astro project isn't at the root of the repo
 
   deploy:
