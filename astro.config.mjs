@@ -4,9 +4,11 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://chalksies.github.io/',
+	base: '/TheIrisSchism/',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'The Iris Schism',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{

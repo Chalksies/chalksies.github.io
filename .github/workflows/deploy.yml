@@ -1,0 +1,33 @@
+name: Deploy Astro Starlight to GitHub Pages
+
+on:
+  push:
+    branches: [ master ] # or 'master', depending on your git init
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install, build, and upload your site
+        uses: withastro/action@v3
+        # with:
+          # path: . # uncomment if your astro project isn't at the root of the repo
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
