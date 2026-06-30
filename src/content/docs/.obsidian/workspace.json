@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schism/08-objects/chem-aegis-v8-(the-chalk-blockers).md",
+                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chem-aegis-v8-(the-chalk-blockers)"
+              "title": "prot-null-(the-zero-directive)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schism/08-objects/chem-aegis-v8-(the-chalk-blockers).md",
+                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chem-aegis-v8-(the-chalk-blockers)"
+              "title": "Backlinks for prot-null-(the-zero-directive)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schism/08-objects/chem-aegis-v8-(the-chalk-blockers).md",
+                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chem-aegis-v8-(the-chalk-blockers)"
+              "title": "Outgoing links from prot-null-(the-zero-directive)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schism/08-objects/chem-aegis-v8-(the-chalk-blockers).md",
+                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of chem-aegis-v8-(the-chalk-blockers)"
+              "title": "Outline of prot-null-(the-zero-directive)"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "215fd324b9cab88c",
   "lastOpenFiles": [
+    "schism/02-users/alg-nulldev-(the-omega).md",
+    "schism/01-factions/err-unknown-(the-silent-diaspora).md",
+    "schism/08-objects/chem-aegis-v8-(the-chalk-blockers).md",
     "schism/07-entities/bio-lithophage-(the-grey-bloom).md",
     "schism/07-entities/bio-carapace-(the-living-dome).md",
     "schism/06-artifacts/obj-chair-(the-origin-chair).md",
@@ -209,9 +212,6 @@
     "schism/02-users/sys-purge-(the-eraser).md",
     "schism/02-users/sys-evolve-(the-architect).md",
     "schism/01-factions/prot-ascend-(the-synaptic-ascendancy).md",
-    "schism/01-factions/err-unknown-(the-silent-diaspora).md",
-    "schism/01-factions/err-unknown-(the-silent-diaspora) 2.md",
-    "schism/01-factions/err-unknown-(the-silent-diaspora) 1.md",
     "Untitled.canvas",
     "Untitled.base",
     "ROOT/05_PHENOMENA",

@@ -32,8 +32,11 @@ export default defineConfig({
 			[wikiLinkPlugin, {
 				aliasDivider: '|',
 				hrefTemplate: (/** @type {string} */ permalink) => {
-					const slug = permalink.toLowerCase().replace(/\s+/g, '-');
-					return `/schism/${slug}`;
+					const slug = permalink
+					.toLowerCase()
+                    .replace(/[()]/g, '')
+                    .replace(/[\s_]+/g, '-')
+                    .replace(/-+/g, '-');
 				}
             }],
 			remarkMark
