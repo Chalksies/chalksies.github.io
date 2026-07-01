@@ -10,10 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.2.0",
     "@astrojs/starlight": "^0.41.1",
-    "@portaljs/remark-wiki-link": "^1.2.0",
     "astro": "^7.0.4",
-    "remark-mark-highlight": "^0.1.1",
+    "remark-mark": "^0.0.0",
     "sharp": "^0.34.5",
     "typescript": "^6.0.3"
   }

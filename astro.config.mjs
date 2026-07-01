@@ -1,8 +1,28 @@
-// @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import { remarkWikiLink } from '@portaljs/remark-wiki-link';
-import { remarkMark } from 'remark-mark-highlight';
+
+function cleanAstroLinks() {
+  return (tree) => {
+    function walk(node) {
+      if (!node) return;
+      
+      if (node.type === 'link' && node.url) {
+        if (node.url.endsWith('.md') || node.url.endsWith('.mdx')) {
+          
+          let newUrl = node.url.replace(/\.mdx?$/, '');
+          newUrl = newUrl.replace(/[()]/g, '');
+          
+          node.url = newUrl;
+        }
+      }
+      
+      if (Array.isArray(node.children)) {
+        node.children.forEach(walk);
+      }
+    }
+    walk(tree);
+  };
+}
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,18 +48,6 @@ export default defineConfig({
 		}),
 	],
 	markdown: {
-		remarkPlugins: [
-			[remarkWikiLink, {
-				aliasDivider: '|',
-				hrefTemplate: (/** @type {string} */ permalink) => {
-					const slug = permalink
-					.toLowerCase()
-                    .replace(/[()]/g, '')
-                    .replace(/[\s_]+/g, '-')
-                    .replace(/-+/g, '-');
-				}
-            }],
-			remarkMark
-        ]
-    }
+    	remarkPlugins: [cleanAstroLinks]
+  }
 });
