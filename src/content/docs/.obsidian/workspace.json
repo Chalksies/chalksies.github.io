@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
+                "file": "schism/04-nodes/node-uplink-(the-elevator).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prot-null-(the-zero-directive)"
+              "title": "node-uplink-(the-elevator)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
+                "file": "schism/04-nodes/node-uplink-(the-elevator).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prot-null-(the-zero-directive)"
+              "title": "Backlinks for node-uplink-(the-elevator)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
+                "file": "schism/04-nodes/node-uplink-(the-elevator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from prot-null-(the-zero-directive)"
+              "title": "Outgoing links from node-uplink-(the-elevator)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schism/01-factions/prot-null-(the-zero-directive).md",
+                "file": "schism/04-nodes/node-uplink-(the-elevator).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prot-null-(the-zero-directive)"
+              "title": "Outline of node-uplink-(the-elevator)"
             }
           }
         ]
@@ -184,34 +184,34 @@
       "vault-file-renamer:Vault File Renamer": false
     }
   },
-  "active": "215fd324b9cab88c",
+  "active": "55ec42aa976af35d",
   "lastOpenFiles": [
+    "schism/04-nodes/node-isolation-(sector-44).md",
+    "schism/04-nodes/node-dome0-vivarium-hab12-(the-gel-city).md",
+    "schism/05-phenomena/err-echo-(unknown).md",
+    "schism/05-phenomena/haz-albedo-(the-pale-winter).md",
+    "schism/07-entities/bio-lithophage-(the-grey-bloom).md",
+    "schism/99-simulations/sim-series-tpf-c04.md",
+    "schism/01-factions/prot-null-(the-zero-directive).md",
     "schism/02-users/alg-nulldev-(the-omega).md",
     "schism/01-factions/err-unknown-(the-silent-diaspora).md",
     "schism/08-objects/chem-aegis-v8-(the-chalk-blockers).md",
-    "schism/07-entities/bio-lithophage-(the-grey-bloom).md",
     "schism/07-entities/bio-carapace-(the-living-dome).md",
     "schism/06-artifacts/obj-chair-(the-origin-chair).md",
     "schism/06-artifacts/dat-scream-(the-black-box).md",
     "schism/05-phenomena/haz-lithosis-(acute-lithosis).md",
-    "schism/05-phenomena/haz-albedo-(the-pale-winter).md",
     "schism/05-phenomena/err-recursion-(unknown).md",
-    "schism/05-phenomena/err-echo-(unknown).md",
     "schism/04-nodes/zone-unmapped-(the-chalklands).md",
     "schism/04-nodes/node-void-(site-zero).md",
     "schism/04-nodes/node-uplink-(the-elevator).md",
-    "schism/04-nodes/node-isolation-(sector-44).md",
     "schism/04-nodes/node-drift-(blue-town).md",
     "schism/04-nodes/node-dome4-(oasis-04).md",
-    "schism/04-nodes/node-dome0-vivarium-hab12-(the-gel-city).md",
     "schism/04-nodes/node-dome0-vivarium-hab09-(the-artemis-habitat).md",
     "schism/04-nodes/node-dome0-vivarium-(the-mosaic-labs).md",
     "schism/04-nodes/node-dome0-membrane-(the-air-filters).md",
     "schism/02-users/usr-hyb-ix-(nix).md",
     "schism/02-users/usr-elara-(the-liaison).md",
     "schism/02-users/sys-purge-(the-eraser).md",
-    "schism/02-users/sys-evolve-(the-architect).md",
-    "schism/01-factions/prot-ascend-(the-synaptic-ascendancy).md",
     "Untitled.canvas",
     "Untitled.base",
     "ROOT/05_PHENOMENA",

@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import wikiLinkPlugin from '@portaljs/remark-wiki-link';
+import { remarkWikiLink } from '@portaljs/remark-wiki-link';
 import { remarkMark } from 'remark-mark-highlight';
 
 // https://astro.build/config
@@ -29,7 +29,7 @@ export default defineConfig({
 	],
 	markdown: {
 		remarkPlugins: [
-			[wikiLinkPlugin, {
+			[remarkWikiLink, {
 				aliasDivider: '|',
 				hrefTemplate: (/** @type {string} */ permalink) => {
 					const slug = permalink
