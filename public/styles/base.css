@@ -6,3 +6,13 @@ starlight-theme-select,
 starlight-menu-button {
   display: none !important;
 }
+
+/*no search either*/
+.search {
+  display: none !important;
+}
+
+starlight-search, 
+[data-starlight-search] {
+  display: none !important;
+}

@@ -59,6 +59,7 @@ export default defineConfig({
 			],
 			sidebar: [],
 			components: {
+				Search: './src/components/Empty.astro',
 				PageTitle: './src/components/CustomPageTitle.astro',
 				SiteTitle: './src/components/CustomSiteTitle.astro',
 			}
