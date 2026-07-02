@@ -4,7 +4,7 @@ title: Terminal_00/USERS
 # USER_PROFILE: USR_CURSOR
 
 **Alias:** "The Cursor" / "The Silent Death" / "The Hunter" 
-**Affiliation:** [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy))
+**Affiliation:** [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy).md)
 **EQ Tier:** EQ-Apex (High Autonomy)
 **Status:** ONLINE 
 **Origin:** Ascended Volunteer (Kaelin V.)

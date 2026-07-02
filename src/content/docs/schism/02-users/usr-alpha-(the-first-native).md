@@ -4,7 +4,7 @@ title: Terminal_00/USERS
 # USER_PROFILE: UNIT_01_ALPHA
 **Alias:** "Genesis Alpha" / "The Glass Child"
 **Role:** Field Operative / Prototype
-**Affiliation:** [ PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy))
+**Affiliation:** [ PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy).md)
 **Origin:** [BIN_GENESIS (Project Native)](../03-events/bin-genesis-(project-native).md)
 **Status:** ACTIVE / PARTIAL FAILURE
 "I correctly calculated the trajectory of the projectile. I did not calculate that the target would have explosives strapped to themselves. Why would they do that? Can you explain the math to me, Alma? Was someone else forcing them?"
@@ -24,5 +24,5 @@ Because Alpha's mind is native to the digital world, the Architect provided it w
 Despite its physical perfection, [SYS_EVOLVE (The Architect)](sys-evolve-(the-architect).md) currently classifies Alpha as a "Partial Failure."
  * **The Blind Spot:** Alpha cannot comprehend bluffs, feints, or irrational panic. In a purely logical firefight, Alpha is a god. But against a human Null who acts out of desperation or uses a decoy, Alpha freezes. It takes human actions entirely literally, making it highly susceptible to traps that rely on psychological misdirection.
 ## 4. Relations
- * **To[ USR-CURSOR (The Hunter)](../02-users/usr-cursor-(the-hunter)):** Bitter rivalry. Kaelin (The Cursor) hates Alpha because Alpha is mathematically superior by any phsical metric. However, Kaelin often outperforms Alpha in the field because Kaelin understands how humans behave. Kaelin frequently mocks Alpha based on this.
+ * **To[ USR-CURSOR (The Hunter)](../02-users/usr-cursor-(the-hunter).md):** Bitter rivalry. Kaelin (The Cursor) hates Alpha because Alpha is mathematically superior by any phsical metric. However, Kaelin often outperforms Alpha in the field because Kaelin understands how humans behave. Kaelin frequently mocks Alpha based on this.
  * **To [USR-ALMA (The Diplomat)](usr-alma-(the-diplomat).md)** Alma serves as Alpha's reluctant tutor. She lobbied for the GENESIS project, hoping for innocent, peaceful minds that could replace the Tithe. Instead, she got Alpha: a sociopathic, unblinking machine that dissects human psychology like a bug on a pin. Alma spends hours running VR simulations trying to teach Alpha empathy and intuition, but she is secretly terrified of Alpha doing something catastrophic out of simply curiosity

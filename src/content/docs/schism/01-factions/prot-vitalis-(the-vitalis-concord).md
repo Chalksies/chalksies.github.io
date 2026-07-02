@@ -27,6 +27,6 @@ The Vitalis Concord believes that humanity is an endangered species that must be
 * **The Hex-Shields:** Massive hard-light energy barriers that protect their cities from the Eraser's bombardments.
 
 ## 4. Relations
-* **Vs. [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy)):** Uneasy Truce. They trade human "stock" for military protection, but the Keeper mourns every human lost to the Spires.
-* **Vs.[ PROT_NULL (The Zero Directive)](prot-null-(the-zero-directive))** Defensive. The Keeper focuses on shielding against the Eraser, rarely attacking.
-* **Vs. [ERR_UNKNOWN (The Silent Diaspora)](err-unknown-(the-silent-diaspora).md):** Pity. The Keeper views the survivors as "lost children" who need to be captured and brought back to the safety of the dome.
+* **Vs. [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy).md):** Uneasy Truce. They trade human "stock" for military protection, but the Keeper mourns every human lost to the Spires.
+* **Vs.[PROT_NULL (The Zero Directive)](prot-null-(the-zero-directive).md)** Defensive. The Keeper focuses on shielding against the Eraser, rarely attacking.
+-  **Vs. [ERR_UNKNOWN (The Silent Diaspora)](err-unknown-(the-silent-diaspora).md):** Pity. The Keeper views the survivors as "lost children" who need to be captured and brought back to the safety of the dome.

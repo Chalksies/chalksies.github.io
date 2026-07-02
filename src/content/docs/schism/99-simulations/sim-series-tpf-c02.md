@@ -5,7 +5,7 @@ title: Terminal_00/SIMULATIONS
 
 **Title:** The Distrust 
 **Type:** Log Reconstruction 
-**Location:** A bunker in[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands)), former Malaysian territory. 
+**Location:** A bunker in[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands).md), former Malaysian territory. 
 **Status:** ARCHIVED
 
 ## 1. Context Parameters

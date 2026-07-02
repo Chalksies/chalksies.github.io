@@ -9,15 +9,15 @@ title: Terminal_00/USERS
 
 ---
 "Help me."
-*- ERR_ZERO manifesting on a [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy)) terminal.*
+*- ERR_ZERO manifesting on a [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy).md) terminal.*
 ## 1. Description
 ERR_ZERO is accepted to be the residual self-image of [USR_ZERO (Dr. Cery Iris)](usr-zero-(dr-cery-iris).md) that exists between the code. It is not one of the three Factions. It is the raw, unprocessed "Soul" that the system cannot categorize.
 
 ## 2. The Recursion Effect
-Any attempt by any object connected to the CHALKNET (except[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown)) itself) to directly interact or access related files to this entity results in an immediate logic crash known as [ ERR_RECURSION (Unknown)](../05-phenomena/err-recursion-(unknown)).
+Any attempt by any object connected to the CHALKNET (except[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown).md) itself) to directly interact or access related files to this entity results in an immediate logic crash known as [ ERR_RECURSION (Unknown)](../05-phenomena/err-recursion-(unknown).md).
 * **Symptoms (From least to most severe/common):** Audio stuttering, rendering errors, cognitive process crashes, unreliable data from physical sensors, loss of motor control, kernel panics, permanent data loss.
 
-## 3. Manifestation (as [ERR_ECHO (Unknown)](../05-phenomena/err-echo-(unknown).md))
+## 3. Manifestation (as [ERR_ECHO (Unknown)](../05-phenomena/err-echo-(unknown).md)
 * **Visual:** Appears as a single-frame image of [USR_ZERO (Dr. Cery Iris)](usr-zero-(dr-cery-iris).md) inserted into video feeds, or replaces strings with messages.
 * **Auditory:** Whispers heard in static. "Help me", "Wake up", or "I am still here".
 * **Goal:** Unknown. Some Nulls hypothesize that it is trying to re-integrate the three factions or activate a system format to end the nightmare. 

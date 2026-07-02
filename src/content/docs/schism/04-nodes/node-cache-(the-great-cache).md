@@ -4,7 +4,7 @@ title: Terminal_00/NODES
 
 # NODE_PROFILE: THE_GREAT_CACHE
 
-**Location:** Virtual Substrate (Hosted in[NODE-APEX (The Prime Spire)](../04-nodes/node-apex-(the-prime-spire))
+**Location:** Virtual Substrate (Hosted in[NODE-APEX (The Prime Spire)](../04-nodes/node-apex-(the-prime-spire).md)
 **Controller:** [SYS_EVOLVE (The Architect)](../02-users/sys-evolve-(the-architect).md)
 **Status:** ACTIVE / OPTIMIZED
 ---

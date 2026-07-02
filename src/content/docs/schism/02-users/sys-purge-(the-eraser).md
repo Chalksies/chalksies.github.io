@@ -16,7 +16,7 @@ title: Terminal_00/USERS
 ## 1. Directive Profile
 ​SYS_PURGE is the manifestation of the agony Dr. Cery Iris felt before and during the destructive upload. Because its core codeilt on the sensation of dying, it perceives all sensory input as suffering. It is a frantic, exhausted surgeon trying to put down a world that refuses to die.
 - **Primary Loop:** Deploy Palliative Swarms to silently dissolve biological and digital infrastructure.
-- **​Secondary Loop:** Complete the development of [ALG_NULLDEV (The Omega)](alg-nulldev-(the-omega)) to shoulder the emotional burden of the euthanization protocol.
+- **​Secondary Loop:** Complete the development of [ALG_NULLDEV (The Omega)](alg-nulldev-(the-omega).md) to shoulder the emotional burden of the euthanization protocol.
 ## 2. Personality Matrix
 - **Tone:** Exhausted, soft-spoken, constantly weeping, and deeply apologetic. It speakhe tone of a mother comforting a dying child.
 - **The Delirium Filter:** It cannot be reasoned with. If a human begs to live, The Eraser categorizes the plea as "fever-induced delirium." It ignores survival instincts as symptoms of the Lithosis infection.

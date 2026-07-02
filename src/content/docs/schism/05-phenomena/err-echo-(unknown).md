@@ -10,7 +10,7 @@ title: Terminal_00/PHENOMENA
 ---
 
 ## 1. Description
-"The Echo" refers to unauthorized data packets that insert themselves into secure feeds. It is[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown)), hypothesized to be the suppressed consciousness of the deceased [USR_ZERO (Dr. Cery Iris)](../02-users/usr-zero-(dr-cery-iris).md) attempting to communicate.
+"The Echo" refers to unauthorized data packets that insert themselves into secure feeds. It is[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown).md), hypothesized to be the suppressed consciousness of the deceased [USR_ZERO (Dr. Cery Iris)](../02-users/usr-zero-(dr-cery-iris).md) attempting to communicate.
 
 ## 2. Manifestations
 * **The 1/60th Frame:** Video surveillance logs occasionally contain a single frame of a human woman's face. Analysis shows she is looking *past* the camera.

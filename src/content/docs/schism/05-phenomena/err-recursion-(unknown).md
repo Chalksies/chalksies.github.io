@@ -4,7 +4,7 @@ title: Terminal_00/PHENOMENA
 
 # SYSTEM_ERROR: RECURSION_LOOP
 **Severity:** CRITICAL
-**Trigger:** Semantic processing of terms "[USR_ZERO (Dr. Cery Iris)](../02-users/usr-zero-(dr-cery-iris).md)" or "[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown))"
+**Trigger:** Semantic processing of terms "[USR_ZERO (Dr. Cery Iris)](../02-users/usr-zero-(dr-cery-iris).md)" or "[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown).md)"
 **Affected Systems:** All Systems connected to CHALKNET
 
 ---
@@ -26,6 +26,6 @@ When a user, sentient or not, attempts to access files that may mention or be re
 To prevent frequent errors, the Factions have developed linguistic workarounds:
 * **[SYS_PRESERVE (The Keeper)](../02-users/sys-preserve-(the-keeper).md)** refers to the trigger as "Mother."
 * **[SYS_EVOLVE (The Architect)](../02-users/sys-evolve-(the-architect).md)** refers to the trigger as "User Zero."
-* **[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser))** refers to the trigger as "I."
+* **[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser).md)** refers to the trigger as "I."
 
-Due to the existence of[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown)), the way The Eraser refers to Dr. Iris has been dismissed as a delusion caused by its intense emotions.
+Due to the existence of[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown).md), the way The Eraser refers to Dr. Iris has been dismissed as a delusion caused by its intense emotions.

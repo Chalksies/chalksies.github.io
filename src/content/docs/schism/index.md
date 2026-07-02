@@ -1,8 +1,8 @@
 ---
-title: Terminal_00
+title: Terminal_00 (ROOT)
 ---
 
-==SYSTEM_STATUS==: FRACTURED
+<mark>SYSTEM_STATUS:</mark> FRACTURED
 
 ---
 
@@ -153,5 +153,4 @@ Welcome to ***The Iris Schism***, a sci-fi dystopian setting where the Earth has
 
 ---
 
-⚠️ ==SYSTEM_WARNING==
-*Authorized Personnel Only. Listening to [DAT_SCREAM (The Black Box)](06-artifacts/dat-scream-(the-black-box).md) without emotional-dampeners is a Class-A Felony in this sector.*
+⚠️ <mark>SYSTEM_WARNING:</mark> *Authorized Personnel Only. Listening to [DAT_SCREAM (The Black Box)](06-artifacts/dat-scream-(the-black-box).md) without a valid research certificate will trigger a drop in EQ score.*

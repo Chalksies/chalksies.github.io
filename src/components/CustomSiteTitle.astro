@@ -1,0 +1,34 @@
+---
+import Default from '@astrojs/starlight/components/SiteTitle.astro';
+
+const { pathname } = Astro.url;
+const isWiki = pathname.includes('/schism');
+const currentTitle = Astro.props.entry?.data?.title || 'TERMINAL_00';
+
+---
+
+{isWiki ? (
+  <div class="architect-header">
+    <span class="sys-id">PROT_ASCEND // </span>
+    <span class="page-id">{currentTitle}</span>
+  </div>
+) : (
+  <Default {...Astro.props} />
+)}
+
+<style>
+  .architect-header {
+    font-family: var(--sl-font-mono);
+    font-size: var(--sl-text-h4);
+    font-weight: bold;
+    display: flex;
+    gap: 0.5rem;
+  }
+  .sys-id { 
+    color: var(--sl-color-gray-3); 
+  }
+  .page-id { 
+    color: var(--sl-color-accent); 
+    text-transform: uppercase; 
+  }
+</style>

@@ -1,0 +1,14 @@
+body {
+  background-image: none !important;
+  animation: none !important;
+  background-color: #03080c !important; 
+  box-shadow: none !important;
+}
+
+.right-sidebar-panel {
+  display: none !important;
+}
+
+h1 {
+  color: rgb(255, 255, 255); 
+}

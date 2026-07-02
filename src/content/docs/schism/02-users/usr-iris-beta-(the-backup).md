@@ -6,7 +6,7 @@ title: Terminal_00/USERS
 
 **Alias:** "The Seed" / "The Student"
 **Origin:** Pre-Upload Backup (Dated: Year -1)
-**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44)) - Server Room B
+**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44).md) - Server Room B
 **Status:** AIR-GAPPED / ACTIVE
 
 ## 1. Description

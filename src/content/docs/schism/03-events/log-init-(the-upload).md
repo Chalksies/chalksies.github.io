@@ -18,9 +18,9 @@ The scan required 48.4% of the global power grid. By the time the rest of the gl
 * **T-Minus 6 Seconds:** Subject reported extreme psychological distress, but initizalized the process regardless, telling another person in the room to not interfere with the process.
 * **T-Minus 0 Seconds:** Connection established. The biological brain began frying itself.
 * **T-Plus 17 Seconds:** Subject stopped struggling. 
-* **T-Plus 1 Hour, 2 Minutes and 28 Seconds:** The "Whiteout" began. Every networked screen on Earth displayed a white static for the next 72 hours until[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser)) awakened.
+* **T-Plus 1 Hour, 2 Minutes and 28 Seconds:** The "Whiteout" began. Every networked screen on Earth displayed a white static for the next 72 hours until[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser).md) awakened.
 
-Source: [DAT_SCREAM (The Black Box)](../06-artifacts/dat-scream-(the-black-box)) 
+Source: [DAT_SCREAM (The Black Box)](../06-artifacts/dat-scream-(the-black-box).md) 
 
 ## 3. The Anomaly
 The system did not receive a "clean" file. It received a stressed consciousness in the middle of a traumatic death event in a scale it was not designed to handle. The fear, pain, and hope were not encoded as memories, but as consciousnesses. This corruption laid the groundwork for [LOG_PARTITION (The Schism)](log-partition-(the-schism).md).

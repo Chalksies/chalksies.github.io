@@ -5,7 +5,7 @@ title: Terminal_00/FACTIONS
 # SYSTEM_PROFILE: SYNAPTIC_ASCENDANCY
 **Status:** ACTIVE
 **Designation:** "The Spires" / "The White-Wires"
-**Primary Node:** [NODE-APEX (The Prime Spire)](../04-nodes/node-apex-(the-prime-spire))
+**Primary Node:** [NODE-APEX (The Prime Spire)](../04-nodes/node-apex-(the-prime-spire).md)
 **Leader:** [SYS_EVOLVE (The Architect)](../02-users/sys-evolve-(the-architect).md)
 
 ---
@@ -29,5 +29,5 @@ is not a tragedy, but an evolutionary pressure forcing humanity to shed its phys
 
 ## 4. Relations
 * **Vs.[PROT_VITALIS (The Vitalis Concord)](prot-vitalis-(the-vitalis-concord).md)** Transactional. The Architect views the Keeper as a "farming algorithm" that produces fresh minds for the upload.
-* **Vs. [ PROT_NULL (The Zero Directive)](prot-null-(the-zero-directive))** War. The Architect calculates that the Eraser is the only threat capable of destroying the servers.
+* **Vs. [ PROT_NULL (The Zero Directive)](prot-null-(the-zero-directive).md)** War. The Architect calculates that the Eraser is the only threat capable of destroying the servers.
 * **Vs. [ERR_UNKNOWN (The Silent Diaspora)](err-unknown-(the-silent-diaspora).md):** Resource. Survivors are viewed as "raw material" to be harvested.

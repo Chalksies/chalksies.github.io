@@ -27,4 +27,4 @@ Acute Lithosis was not a natural disease. It began as an early bio-engineering i
 ## 4. Current Countermeasures
  * **[SYS_PRESERVE (The Keeper)](../02-users/sys-preserve-(the-keeper).md):** Avoidance. The Keeper relies entirely on extreme positive-pressure air filtration (The Membrane) to keep the airborne spores out of the Domes.
  * **[SYS_EVOLVE (The Architect)](../02-users/sys-evolve-(the-architect).md):** Obsolescence. The Architect views the plague as proof that biological lungs are a design flaw. Digitization makes the user immune.
- * **[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser)):** Acceleration. The Eraser actively cultivates the spores, weaponizing the infected dust into "Palliative Swarms" to speed up the euthanization of the planet.
+ * **[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser).md):** Acceleration. The Eraser actively cultivates the spores, weaponizing the infected dust into "Palliative Swarms" to speed up the euthanization of the planet.

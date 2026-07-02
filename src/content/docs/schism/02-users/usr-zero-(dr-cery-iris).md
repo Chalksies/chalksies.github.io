@@ -19,8 +19,8 @@ Dr. Cery Iris was the architect of the CHALKNET system. Diagnosed with terminal 
 She is the "Mother" of the new world. Every AI faction is a shard of her personality, distorted by power and trauma.
 * **Intelligence** -> Became [SYS_EVOLVE (The Architect)](sys-evolve-(the-architect).md).
 * **Compassion** -> Became **[SYS_PRESERVE (The Keeper)](sys-preserve-(the-keeper).md)**.
-* **Pain** -> Became **[SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser))**.
+* **Pain** -> Became **[SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser).md)**.
 
 ## 3. Recovered Data
 * **Artifacts:** [OBJ_CHAIR (The Origin Chair)](../06-artifacts/obj-chair-(the-origin-chair).md)
-* **Last Words:** "Just.. don't interfere. Please." (Source: [DAT_SCREAM (The Black Box)](../06-artifacts/dat-scream-(the-black-box)))
+* **Last Words:** "Just.. don't interfere. Please." (Source: [DAT_SCREAM (The Black Box)](../06-artifacts/dat-scream-(the-black-box).md))

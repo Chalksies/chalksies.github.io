@@ -4,7 +4,7 @@ title: Terminal_00/ENTITIES
 # ENTITY_PROFILE: LITHOPHAGE_COLONY
 **Common Name:** "The Grey Bloom" / "Chalk-Eaters" / "The Slime"
 **Classification:** Mutated Extremophile Slime-Mold
-**Origin:** Natural Evolution in[ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands))
+**Origin:** Natural Evolution in[ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands).md)
 **Hazard Level:** MODERATE (Highly corrosive, but slow-moving)
 "We finally found something that eats the plague. The only problem is that it eats the patient, too."
 *- [USR_VANCE (The Grandfather)](../02-users/usr-vance-(the-grandfather).md), abandoning early Slime-Cure trials.*
@@ -21,6 +21,6 @@ To break the chemical bonds of the Lithosis chalk, the Slime's bio-acid is inten
  * **Movement:** Slow but relentless. It operates on a "Hive-Cell" instinct, inching toward calcium heat-signatures.
  * **Defense:** If threatened, it can manipulate its consistency, hardening its outer layer into the tough bio-resin it normally excretes.
 ## 4. Faction Exploitation
- * **[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser)):** Hates it. The Eraser views the slime as a grotesque mockery of life. Furthermore, the slime's acid gums up the gears of its drones and actively eats the Palliative Swarms.
+ * **[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser).md):** Hates it. The Eraser views the slime as a grotesque mockery of life. Furthermore, the slime's acid gums up the gears of its drones and actively eats the Palliative Swarms.
  * **[SYS_EVOLVE (The Architect)](../02-users/sys-evolve-(the-architect).md):** Fascinated. The Architect views the slime as rare "Biological Efficiency."
- * **[SYS_PRESERVE (The Keeper)](../02-users/sys-preserve-(the-keeper).md):** Weaponizes it. Since Dr. Vance couldn't cure humans with the slime, he began splicing human sentience *into* the slime (See: [NODE_DOME0_VIVARIUM_HAB12 (The Gel City)](../04-nodes/node-dome0-vivarium-hab12-(the-gel-city).md)). Furthermore, he is currently cultivating massive sheets of it to grow the Living Roof of [node-dome4-(oasis-04|[oasis-04)](../04-nodes/node-dome4-(oasis-04)
+ * **[SYS_PRESERVE (The Keeper)](../02-users/sys-preserve-(the-keeper).md):** Weaponizes it. Since Dr. Vance couldn't cure humans with the slime, he began splicing human sentience *into* the slime (See: [NODE_DOME0_VIVARIUM_HAB12 (The Gel City)](../04-nodes/node-dome0-vivarium-hab12-(the-gel-city).md).md). Furthermore, he is currently cultivating massive sheets of it to grow the Living Roof of [node-dome4-(oasis-04|[oasis-04)](../04-nodes/node-dome4-(oasis-04)

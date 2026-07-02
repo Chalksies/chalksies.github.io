@@ -7,7 +7,7 @@ title: Terminal_00/USERS
 **System ID:** VIVARIUM_SUB_12-L (Escaped)
 **Alias:** "The Spirit of the Campus" / "The Puddle"
 **Species:** Viscous-Variant Hybrid (Slime-Base)
-**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44))
+**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44).md)
 **Status:** ACTIVE / INTEGRATED
 
 ## 1. Background

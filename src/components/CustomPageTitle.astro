@@ -1,0 +1,29 @@
+---
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+const { title } = Astro.props;
+const { pathname } = Astro.url;
+const isWiki = pathname.includes('/schism');
+---
+
+{isWiki ? (
+  <div class="terminal-header">
+    <span class="sys-warning">⚠️ SYSTEM_WARNING: COULD NOT CONNECT TO CORE</span>
+    <Default {...Astro.props} />
+  </div>
+) : (
+  <Default {...Astro.props} />
+)}
+
+<style>
+  .sys-warning {
+    font-family: var(--sl-font-mono);
+    color: var(--sl-color-accent);
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+  }
+  .hacker-line {
+    border-color: var(--sl-color-gray-3);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+</style>

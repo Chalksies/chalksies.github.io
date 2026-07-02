@@ -4,7 +4,7 @@ title: Terminal_00/NODES
 
 # NODE_PROFILE: VOID_STATION
 **Location:** Cheyenne Mountain Complex (Former USA)
-**Controller:**[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser))
+**Controller:**[ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser).md)
 **Status:** HOSTILE
 
 ---

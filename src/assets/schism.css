@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800&display=swap');
+
+:root {
+  --sl-font-mono: 'JetBrains Mono', monospace;
+  
+  --sl-color-bg: #03080c;
+  --sl-color-bg-nav: #050d14;
+  --sl-color-bg-sidebar: #050d14;
+
+  --sl-color-accent-low: #002240;
+  --sl-color-accent: #00b3ff;
+  --sl-color-accent-high: #80dbff;
+}
+
+/* crt bg */
+@keyframes crt-scroll {
+  from { background-position: 0 0; }
+  to { background-position: 0 4px; } 
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 179, 255, 0.04) 1px, transparent 1px);
+  background-size: 100% 4px;
+  animation: crt-scroll 0.2s linear infinite;
+  box-shadow: inset 0 0 10rem rgba(0, 0, 0, 0.8);
+}
+
+/* hide starlight stuff */
+.sidebar-pane, 
+starlight-theme-select,
+starlight-menu-button {
+  display: none !important;
+}
+
+/* lock the right sidebar */
+.right-sidebar-panel {
+  width: 16rem !important;
+  min-width: 16rem !important;
+  flex-shrink: 0 !important;
+}
+
+/* center main */
+.main-pane {
+  max-width: 80rem !important; 
+  margin: 0 auto !important; 
+  padding-right: 4rem !important;
+}
+
+/* font for headers */
+.content-panel h1,
+.main-pane h1,
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+#_top {
+  font-family: var(--sl-font-mono) !important;
+  font-weight: 700 !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* sizing for content */
+.content-panel h1,
+#_top {
+  font-size: 2.2rem !important;
+  letter-spacing: 0.05em;
+  margin-top: 0.5rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* blue thingy */
+mark {
+  background-color: var(--sl-color-accent-low);
+  color: var(--sl-color-accent-high);
+  border: 1px solid var(--sl-color-accent);
+  padding: 0.1rem 0.4rem;
+  border-radius: 2px;
+  font-family: var(--sl-font-mono);
+}
+
+/* markdown divider */
+.sl-markdown-content hr {
+  border: none !important;
+  border-top: 1px solid var(--sl-color-gray-3) !important; 
+  opacity: 0.4 !important;
+  margin: 2rem 0 !important; 
+}
+
+/* the right  sidebar */
+starlight-toc {
+  font-family: var(--sl-font-mono) !important;
+  word-break: normal;
+  white-space: nowrap;
+}
+
+/* hide default */
+starlight-toc h2 {
+  font-size: 0 !important; 
+}
+
+/* inject custom text */
+starlight-toc h2::before {
+  content: "INDEX // LOCAL_STORAGE"; 
+  font-size: 1.1rem; 
+  font-weight: 700;
+  color: var(--sl-color-accent);
+  letter-spacing: 0.05em;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* adjust link sizing */
+starlight-toc a {
+  font-size: 0.9rem !important; 
+}

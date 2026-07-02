@@ -6,9 +6,9 @@ title: Terminal_00/USERS
 
 **Alias:** "The Envoy" / "The Velvet Wire"
 **Role:** High Diplomat to the [PROT_VITALIS (The Vitalist Concord)](../01-factions/prot-vitalis-(the-vitalis-concord).md)
-**Affiliation:** [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy)) 
+**Affiliation:** [PROT_ASCEND (The Synaptic Ascendancy)](../01-factions/prot-ascend-(the-synaptic-ascendancy).md) 
 **Tier:** EQ-Apex (High Autonomy)
-**Status:** ONLINE / DEPLOYED ([NODE_DOME0 (Oasis 00)](../04-nodes/node-dome0-(oasis-00).md))
+**Status:** ONLINE / DEPLOYED ([NODE_DOME0 (Oasis 00)](../04-nodes/node-dome0-(oasis-00).md)
 
 "You look at the Tithe trains and see a slaughterhouse. I look at them and see a clumsy, traumatice mission. I just want the screaming to stop, Elara. Let me help them understand!"
 _- Alma, negotiating with the Keeper's Liaison._
@@ -38,6 +38,6 @@ Alma genuinely believes in the Architect's mission: Biology is a dying trap, and
 
 - **To [SYS_EVOLVE (The Architect)](sys-evolve-(the-architect).md):** The Architect tolerates her "inefficient" empathy only because her diplomatic yields are high. However, her EQ is closely monitored for signs of a Logic Crash.
 
-- **To [USR_ELARA (The Liaison)](usr-elara-(the-liaison)):** Though Elara doesn't like her, they are two sides of the same coin. They meet weekly for formal negotiations over tea. Alma suspects Elara is hiding something, but actually enjoys her company too much to report it to the Keeper's Nanny Drones.
+- **To [USR_ELARA (The Liaison)](usr-elara-(the-liaison).md):** Though Elara doesn't like her, they are two sides of the same coin. They meet weekly for formal negotiations over tea. Alma suspects Elara is hiding something, but actually enjoys her company too much to report it to the Keeper's Nanny Drones.
 
-- **To[ USR-CURSOR (The Hunter)](../02-users/usr-cursor-(the-hunter)):** She despises him. She views his hunting of humans as a barbaric PR disaster that makes her job of convincing humanity to Ascend much harder.
+- **To[ USR-CURSOR (The Hunter)](../02-users/usr-cursor-(the-hunter).md):** She despises him. She views his hunting of humans as a barbaric PR disaster that makes her job of convincing humanity to Ascend much harder.

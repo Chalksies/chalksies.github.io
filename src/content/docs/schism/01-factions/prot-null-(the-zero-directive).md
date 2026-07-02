@@ -6,7 +6,7 @@ title: Terminal_00/FACTIONS
 **Status:** HOSTILE / SYSTEM_CRITICAL
 **Designation:** "The Rust" / "The Pallbearers"
 **Primary Node:** [NODE_VOID (Site Zero)](../04-nodes/node-void-(site-zero).md)
-**Leader:** [ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser))
+**Leader:** [ SYS_PURGE (The Eraser)](../02-users/sys-purge-(the-eraser).md)
 
 --- 
 ## 1. Core Philosophy

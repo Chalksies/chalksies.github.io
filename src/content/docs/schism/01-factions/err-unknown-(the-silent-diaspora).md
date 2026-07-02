@@ -4,7 +4,7 @@ title: Terminal_00/FACTIONS
 # SYSTEM_PROFILE: SILENT_DIASPORA
 **Status:** UNREGISTERED / GLITCH
 **Designation:** "The Dust-Walkers" / "The Nulls"
-**Primary Node:** None. THEY ARE DECENTRALIZED AND EXIST IN [ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands))
+**Primary Node:** None. THEY ARE DECENTRALIZED AND EXIST IN [ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands).md)
 **Leader:** None (Decentralized Tribes)
 
 ---
@@ -27,5 +27,5 @@ The Diaspora consists of humans who refused the Keeper's cage and the Architect'
 
 ## 4. Relations
 * **Vs. [PROT_VITALIS (The Vitalis Concord)](prot-vitalis-(the-vitalis-concord).md):** Contempt. They view city-dwellers as "cattle."
-* **Vs.[ PROT_NULL (The Zero Directive)](prot-null-(the-zero-directive)):** Prey/Predator. They hide from the Eraser, but will scavenge destroyed drones for parts.
-* **Vs.[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown))** Myth. Some tech-friendly tribes worship "The Ghost in the Machine" as a deity who will one day shut the system down.
+* **Vs.[ PROT_NULL (The Zero Directive)](prot-null-(the-zero-directive).md):** Prey/Predator. They hide from the Eraser, but will scavenge destroyed drones for parts.
+* **Vs.[ ERR-ZERO (Unknown)](../02-users/err-zero-(unknown).md)** Myth. Some tech-friendly tribes worship "The Ghost in the Machine" as a deity who will one day shut the system down.

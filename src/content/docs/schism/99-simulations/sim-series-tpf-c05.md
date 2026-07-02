@@ -5,7 +5,7 @@ title: Terminal_00/SIMULATIONS
 
 **Title:** The Finale
 **Type:** Log Reconstruction 
-**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44))
+**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44).md)
 **Status:** ARCHIVED
 
 ## 1. Context Parameters

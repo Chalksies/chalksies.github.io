@@ -5,13 +5,13 @@ title: Terminal_00/SIMULATIONS
 
 **Title:** The Hunt 
 **Type:** Log Reconstruction 
-**Location:**[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands)), former Chinese territory
+**Location:**[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands).md), former Chinese territory
 **Status:** ARCHIVED
 
 ## 1. Context Parameters
 
 **Time:** 13.00 (Noon). **Setting:** Roadtrip towards Sector 44.
- through[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands)).
+ through[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands).md).
 
 ## 2. Playback Sequence
 

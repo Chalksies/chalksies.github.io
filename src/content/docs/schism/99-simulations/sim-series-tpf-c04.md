@@ -5,13 +5,13 @@ title: Terminal_00/SIMULATIONS
 
 **Title:** The Discovery
 **Type:** Log Reconstruction 
-**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44))
+**Location:** [ NODE_ISOLATION (Sector 44](../04-nodes/node-isolation-(sector-44).md)
 **Status:** ARCHIVED
 
 ## 1. Context Parameters
 
 **Time:** 02.00 (Night). **Setting:** Roadtrip towards Sector 44.
- through[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands)) Reaching target.
+ through[ ZONE-UNMAPPED (The Chalklands)](../04-nodes/zone-unmapped-(the-chalklands).md) Reaching target.
 
 ## 2. Playback Sequence
 
